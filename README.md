@@ -4,7 +4,7 @@ Enhance user engagement by displaying the view count of each post.
 
 ## Installation
 
-1. Download the plugin ZIP file from the [GitHub repository](https://github.com/shsomrat/shsomrat-SHS_Post_View_count_WP_Plugin/edit/main).
+1. Download the plugin ZIP file from the [GitHub repository](https://github.com/shsomrat/shsomrat-SHS_Post_View_count_WP_Plugin).
 2. Log in to your WordPress admin dashboard.
 3. Navigate to **Plugins > Add New**.
 4. Click on the **Upload Plugin** button, then choose the downloaded ZIP file.
