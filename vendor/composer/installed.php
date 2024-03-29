@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'shsom/shs_post_view_count',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '7d66bbca61edc0bce7e7eb48c1cf3218cf2e93bf',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -42,9 +42,9 @@
             'dev_requirement' => true,
         ),
         'shsom/shs_post_view_count' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '7d66bbca61edc0bce7e7eb48c1cf3218cf2e93bf',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
