@@ -1,0 +1,27 @@
+#views-content>*{
+  margin: 0;
+}
+#views-content{
+  width: 100%;
+  margin: 2rem 0;
+  padding: 0.5rem 0.2rem;
+  border: 2px solid #00000038;
+}
+#views-title{
+  text-transform: capitalize;
+  font-size: 1.5rem;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+}
+#views-text{
+  text-transform: capitalize;
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: rgba(44, 44, 44, 0.562);
+
+}
+#views-count{
+  font-size: 1.8rem;
+  font-weight: 700;
+}
